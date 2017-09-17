@@ -137,7 +137,7 @@
 								<div class="panel-body">
 									<p>Pour devenir maire vous devrez tout d'abord vous assurer d'avoir atteint ou dépassé le niveau RP 90 (324 000xp).</p>
 									<p>Rendez-vous ensuite à la mairie de Princeton (la grande tour entre le commissariat et le bar "le requin") puis appuyez sur votre touche "utiliser" pour ouvrir le menu de la mairie.</p>
-									<p>Vous aurez l'option "candidature" et vous pourrez déposer la votre pour 50 000$ RP.</p>
+									<p>Vous aurez l'option "candidature" et vous pourrez déposer la votre pour 250 000$ RP.</p>
 									<p>Va s'en suivre un temps de vote par les joueurs ayant atteint ou dépassé le niveau 30, à vous de trouver le bon moyen de vous faire de la pub !</p>
 								</div>
 							</div>
@@ -165,6 +165,7 @@
 										<li><p>L'hôtel des ventes est interdit</p></li>
 									</ul>
 									<p>Mais attention, chaque amendements ne pourra affecter que un job ou un gang à la fois.</p>
+									<p>Le maire à également accès à sa villa personnel, qui lui affecte un bonus de paye et qui subbit les même règles que la villa Immobilier,elle se situe a la fin du tunnel à coté des techniciens.</p>
 								</div>
 							</div>
 						</div>
