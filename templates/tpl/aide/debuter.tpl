@@ -99,20 +99,20 @@
 						<p>Monter vos LvL, c'est très simple !<br />
 						Vous avez <span class="pomme">plusieures astuces</span> à votre disposition :</p><br />
 
-							<p><center> <i><u>1ére astuce </u></i>: Les quêtes téléphones.</center><br />
-							( Plusieurs quêtes s'offrent à vous selon votre emploi.)</p><br />
-							<p><center><i><u>2ème astuce</u></i> : Devenir avocat.</center><br />
+							<p><center><li><i><u>1ére astuce </u></i>: Les quêtes téléphones.</li></center><br />
+							Plusieurs quêtes s'offrent à vous selon votre emploi. Et rapporte tous de l'XP</p><br />
+							<p><center><li><i><u>2ème astuce</u></i> : Devenir avocat.</li></center><br />
 							Lorsque vous êtes nommé avocat, vous avez comme second métier de défendre les joueurs au tribunal, qu'ils soient accusé ou victime, contre rémunération en XP.</p><br />
-							<p><center><i><u>3éme astuce </u></i>: Le craft.</center><br />
-							Vous gagneriez de l'XP pour chaque niveau passé voir le <a href="../forum/viewtopic.php?f=10&t=35907">tutoriel sur l'artisana</a>.</p><br />
-							<p><center> 4éme astuce : Le loto.<center><br />
+							<p><center><li><i><u>3éme astuce </u></i>: Le craft.</li></center><br />
+							Vous gagneriez de l'XP pour chaque niveau passé, voir le <a href="../forum/viewtopic.php?f=10&t=35907">tutoriel sur l'artisanat</a>.</p><br />
+							<p><center><li><i><u>4éme astuce </u></i>: Le loto.</li></center><br />
 							Gagnez <span class="pomme">100 xp</span> pour<span class="blood"> 5000 $ </span></p><br />
-							<p><center> 5éme astuce : Participer aux évents.<center><br />
+							<p><center><li><i><u>5éme astuce </u></i>: Participer aux évents.</li><center><br />
 							Les évents créés par les Admins/V.I.P peuvent aussi vous faire gagner de l'XP gratuitement à condition de gagner l'évent.</p><br />
-							<p><center> 6éme astuce : Les succès.<center><br />
-							<p> Rendez-vous sur le forum, dans la section <a href="https://www.ts-x.eu/index.php?page=success">les succès</a> pour vous mettre à jour.<br />
-							Chaque succès vous rapporte de l'XP.</p><br />
-							<br />
+							<p><center><li><i><u>6éme astuce </u></i>: Les succès.</li><center><br />
+							Rendez-vous sur le forum, dans la section <a href="https://www.ts-x.eu/index.php?page=success">les succès</a> pour vous mettre à jour.<br />
+							Chaque succès vous rapporte de l'XP.<br />
+							Il est également possible de consulté ces succès dirrectement en jeux à l'aide de la commande /stats.</p><br />
 							<p>Ainsi, vous l'aurez compris <span class="pomme">l'XP</span> vous fera augmenter rapidement en Lvl, et peut-être viserez-vous maintenant, l'obtention de <span class="blood">tout les prestiges ?</span></p>
 					</div>
 				</div>
