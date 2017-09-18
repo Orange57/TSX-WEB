@@ -129,7 +129,7 @@
 								<p>Le rang "No-Pyj" à de multiples avantages, il vous permettra entre autres de :</p>
 								<br />
 									<ul>
-										<li><p>Devenir membre de la Justice.<p></li>
+										<li><p>Devenir chef d'un job.<p></li>
 										<li><p>Avoir accès à une partie privée du forum (Forum des no-pyj)<p></li>
 										<li><p>Avoir le "+force" dans la rue. (Tenir une personne avec le grade adéquat).<p></li>
 										<li><p>Avoir le "/me" (annonces), qui vous permettra en outre de pouvoir faire des annonces , message blanc qui est mieux visible et qui tape à l'oeil.<p></li>
