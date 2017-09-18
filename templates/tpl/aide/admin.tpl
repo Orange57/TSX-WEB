@@ -198,7 +198,7 @@
 									Comme nous vous l'avons dit plus haut un référé c'est un joueur qui connaît parfaitement son règlement, donc dans un cas général les référés ont tous leur no-pyj ou presque.<br />
 									<br />
 									Pour éviter les conflits d'intérêts, le statut de référé est interdit aux membres des forces de l’ordre ainsi qu'aux ADMINs et VIPs.<br />
-									Pour postuler, vous pouvez envoyer votre candidature <a href="/forum/viewtopic.php?f=155&t=30114" > sur cette page </a> et une réponse vous sera donnée rapidement.
+									Pour postuler, vous pouvez envoyer votre candidature à Pierre par MP forum.
 									</p>
 								</div>
 							</div>
